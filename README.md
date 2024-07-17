@@ -8,3 +8,13 @@ This project is a simple calculator built using React. It includes basic arithme
 - Positive/negative toggle (+/-)
 - Percentage calculation
 - Keyboard support for input and operations
+## Installation
+To get started with this project
+- ### Clone the repository:
+git clone https://github.com/yourusername/react-calculator.git
+cd react-calculator
+- ### Install dependencies:
+npm install
+- ### Start the development server:
+npm run dev
+- navigate to http://localhost:5173 to see the application in action.
