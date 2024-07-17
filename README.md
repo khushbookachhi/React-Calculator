@@ -22,4 +22,7 @@ git clone https://github.com/yourusername/react-calculator.git
 3. **Start the development server**:
  ```bash
   npm run dev
-    ```
+ ```
+4. navigate to http://localhost:5173 to see the application in action.
+
+
