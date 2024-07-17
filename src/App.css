@@ -1,0 +1,25 @@
+.container{
+  background-color: rgb(170, 170, 177);
+  width: 23rem;
+  height: auto;
+  margin:6rem auto ;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 10px;
+}
+.calculator{
+  background-color: #000;
+  color: #f9f9f9;
+  width: 21rem;
+  height:4rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top:1.3rem;
+  border-radius: 5px;
+}
